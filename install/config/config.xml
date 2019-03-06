@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Installer>
+    <Name>PDFWordConvertor Name</Name>
+    <Version>1.0.0</Version>
+    <Title>PDFWordConvertor Title</Title>
+    <Publisher>PublisherName</Publisher>
+    <!-- Directory name is used in component.xml -->
+    <StartMenuDir>StartMenuDir</StartMenuDir>
+    <TargetDir>@HomeDir@/IfwExamples/startmenu</TargetDir>
+</Installer>
